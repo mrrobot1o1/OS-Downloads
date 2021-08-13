@@ -8,10 +8,10 @@
 |:-------------------------------|:------------:|:----------:|
 |  Windows 7 Ultimate 			 | 	 [Download](https://download.microsoft.com/download/1/E/6/1E6B4803-DD2A-49DF-8468-69C0E6E36218/7601.24214.180801-1700.win7sp1_ldr_escrow_CLIENT_ULTIMATE_x86FRE_en-us.iso)     | [Download](https://download.microsoft.com/download/1/E/6/1E6B4803-DD2A-49DF-8468-69C0E6E36218/7601.24214.180801-1700.win7sp1_ldr_escrow_CLIENT_ULTIMATE_x86FRE_en-us.iso) |
 |  Windows 7 Professinal 			 | 	 [Download](https://download.microsoft.com/download/C/0/6/C067D0CD-3785-4727-898E-60DC3120BB14/7601.24214.180801-1700.win7sp1_ldr_escrow_CLIENT_PROFESSIONAL_x86FRE_en-us.iso)     | [Download](https://download.microsoft.com/download/0/6/3/06365375-C346-4D65-87C7-EE41F55F736B/7601.24214.180801-1700.win7sp1_ldr_escrow_CLIENT_PROFESSIONAL_x64FRE_en-us.iso)
-|  Windows 8.1 			 | 	 [Download](https://software-download.microsoft.com/sg/Win8.1_English_x32.iso?t=70c25a6e-92d6-431a-b092-2107a674ab7a&e=1628758966&h=a20dbc7da74f0a09922e18b4b17fa6fc)     | [Download](https://software-download.microsoft.com/sg/Win8.1_English_x32.iso?t=70c25a6e-92d6-431a-b092-2107a674ab7a&e=1628758966&h=a20dbc7da74f0a09922e18b4b17fa6fc)
-|  Windows 10			 | 	 [Download](https://software-download.microsoft.com/sg/Win8.1_English_x64.iso?t=b212fb4d-f5ef-446b-9c69-9c52ede2c68d&e=1626863080&h=3f3e1ccc90747b9a87ab774e618fb0a2)     | [Download](https://software-download.microsoft.com/sg/Win10_21H1_English_x32.iso?t=2e64b821-2dcc-45d5-9b60-0da07d7fd7dd&e=1626863253&h=2af12ef391eb9cfea17f8bbaca92b5e7) | [Download](https://software-download.microsoft.com/sg/Win10_21H1_English_x64.iso?t=2e64b821-2dcc-45d5-9b60-0da07d7fd7dd&e=1626863253&h=725e2af48edfe995b2cfd732866d7ec0) |
+|  Windows 8.1 			 | 	 [Download](https://www.microsoft.com/en-in/software-download/windows8ISO)     | [Download](https://www.microsoft.com/en-in/software-download/windows8ISO)
+|  Windows 10			 | 	 [Download](https://www.microsoft.com/en-in/software-download/windows10ISO)     | [Download](https://www.microsoft.com/en-in/software-download/windows10ISO)  |
 
-
+> Windows 8 & 10 Official Links are only valid for 24 hours from time of creation. so i have added official download pages.
 ## Linux
 
 |  Distributions                 |   32 Bit      |   64 Bit  |

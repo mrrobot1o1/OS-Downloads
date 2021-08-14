@@ -11,7 +11,7 @@
 |  Windows 8.1 			 | 	 [Download](https://www.microsoft.com/en-in/software-download/windows8ISO)     | [Download](https://www.microsoft.com/en-in/software-download/windows8ISO)
 |  Windows 10			 | 	 [Download](https://www.microsoft.com/en-in/software-download/windows10ISO)     | [Download](https://www.microsoft.com/en-in/software-download/windows10ISO)  |
 
-> Windows 8 & 10 Official Links are only valid for 24 hours from time of creation. so i have added official download pages.
+> Windows 8.1 & 10 Official Links are only valid for 24 hours from time of creation. so i have added official download pages.
 ## Linux
 
 |  Distributions                 |   32 Bit      |   64 Bit  |

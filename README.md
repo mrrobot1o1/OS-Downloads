@@ -31,7 +31,21 @@
 
 > Bonus
 
-Microsoft Office 2019 official Download
+Microsoft Office Professinal Plus 2019 official Download
 
 [Download](http://officecdn.microsoft.com/pr/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/en-us/ProPlus2019Retail.img) **Retail**
 
+Office 2016 Professional
+[Download](https://officecdn.microsoft.com/db/492350F6-3A01-4F97-B9C0-C7C6DDF67D60/media/en-US/ProfessionalRetail.img)
+
+Office 2016 Professional Plus
+[Dowmload](https://officecdn.microsoft.com/db/492350F6-3A01-4F97-B9C0-C7C6DDF67D60/media/en-US/ProPlusRetail.img)
+
+Office 2013 Professional
+[Download](https://officeredir.microsoft.com/r/rlidO15C2RMediaDownload?p1=db&p2=de-DE&p3=ProfessionalRetail)
+
+Office 365 Home Premium
+[Download](https://officecdn.microsoft.com/db/492350F6-3A01-4F97-B9C0-C7C6DDF67D60/media/en-US/O365HomePremRetail.img)
+
+Office 365 Professional Plus
+[Download](https://officecdn.microsoft.com/db/492350F6-3A01-4F97-B9C0-C7C6DDF67D60/media/en-US/O365ProPlusRetail.img)

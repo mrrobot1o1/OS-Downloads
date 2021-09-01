@@ -13,6 +13,18 @@
 |  Windows 10			 | 	 [Download](https://www.microsoft.com/en-in/software-download/windows10ISO)     | [Download](https://www.microsoft.com/en-in/software-download/windows10ISO)  |
 
 > Windows 8.1 & 10 Official Links are only valid for 24 hours from time of creation. so i have added official download pages.
+
+**But** if You Really Want Windows 10 Direct link We Can Use itechtics.com links Which Will Redirect Us to a official created Download Links.
+
+> Here are links You can Download Windows 10 Direct from here.
+
+| Windows 10 | 32 bit   |  64 bit    |
+|:-----------|:--------:|:----------:|
+| Windows 10 21H1 | [Download](https://www.itechtics.com/?dl_id=141) | [Download](https://www.itechtics.com/?dl_id=140) |
+| Windows 10 20H2 | [Download](https://www.itechtics.com/?dl_id=134) | [Download](https://www.itechtics.com/?dl_id=133) |
+| Windows 10 Build 2004 | [Download](https://www.itechtics.com/?dl_id=87) | [Download](https://www.itechtics.com/?dl_id=85) |
+| Windows 10 Build 1909 | [Download](https://www.itechtics.com/?dl_id=76) | [Download](https://www.itechtics.com/?dl_id=75) |
+
 ## Linux
 
 |  Distributions                 |   32 Bit      |   64 Bit  |

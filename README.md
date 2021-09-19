@@ -11,7 +11,7 @@
 |  Windows 7 Professinal 			 | 	 [Download](https://download.microsoft.com/download/C/0/6/C067D0CD-3785-4727-898E-60DC3120BB14/7601.24214.180801-1700.win7sp1_ldr_escrow_CLIENT_PROFESSIONAL_x86FRE_en-us.iso)     | [Download](https://download.microsoft.com/download/0/6/3/06365375-C346-4D65-87C7-EE41F55F736B/7601.24214.180801-1700.win7sp1_ldr_escrow_CLIENT_PROFESSIONAL_x64FRE_en-us.iso)
 |  Windows 8.1 			 | 	 [Download](https://www.microsoft.com/en-in/software-download/windows8ISO)     | [Download](https://www.microsoft.com/en-in/software-download/windows8ISO)
 |  Windows 10			 | 	 [Download](https://www.microsoft.com/en-in/software-download/windows10ISO)     | [Download](https://www.microsoft.com/en-in/software-download/windows10ISO)  |
-
+|  Windows 10 LTSC        |  [Download](https://software-download.microsoft.com/download/sg/17763.107.101029-1455.rs5_release_svc_refresh_CLIENT_LTSC_EVAL_x86FRE_en-us.iso) | [Download](https://software-download.microsoft.com/download/sg/17763.107.101029-1455.rs5_release_svc_refresh_CLIENT_LTSC_EVAL_x64FRE_en-us.iso)
 > Windows 8.1 & 10 Official Links are only valid for 24 hours from time of creation. so i have added official download pages.
 
 **But** if You Really Want Windows 10 Direct link We Can Use itechtics.com links Which Will Redirect Us to a official created Download Links.

@@ -13,6 +13,20 @@
 |  Windows 10			 | 	 [Download](https://www.microsoft.com/en-in/software-download/windows10ISO)     | [Download](https://www.microsoft.com/en-in/software-download/windows10ISO)  |
 |  Windows 10 LTSC        |  [Download](https://software-download.microsoft.com/download/sg/17763.107.101029-1455.rs5_release_svc_refresh_CLIENT_LTSC_EVAL_x86FRE_en-us.iso) | [Download](https://software-download.microsoft.com/download/sg/17763.107.101029-1455.rs5_release_svc_refresh_CLIENT_LTSC_EVAL_x64FRE_en-us.iso) |
 |  Windows 10 Enterprise |   [Download](https://software-download.microsoft.com/download/sg/19043.928.210409-1212.21h1_release_svc_refresh_CLIENTENTERPRISEEVAL_OEMRET_x86FRE_en-us.iso) | [Download](https://software-download.microsoft.com/download/sg/19043.928.210409-1212.21h1_release_svc_refresh_CLIENTENTERPRISEEVAL_OEMRET_x64FRE_en-us.iso)|
+|  Windows Server 2022   | None     | [Download](https://software-download.microsoft.com/download/sg/20348.169.210806-2348.fe_release_svc_refresh_SERVER_EVAL_x64FRE_en-us.iso)   |
+|  Windows Server 2019   | None     | [Download](https://software-download.microsoft.com/download/pr/17763.737.190906-2324.rs5_release_svc_refresh_SERVER_EVAL_x64FRE_en-us_1.iso)  |
+|  Windows Server 2019 Essentials |  None    | [Download](https://software-download.microsoft.com/download/pr/17763.737.190906-2324.rs5_release_svc_refresh_SERVERESSENTIALS_OEM_x64FRE_en-us_1.iso)  |
+|  Hyper-V Server 2019   | None   |   [Download](https://software-download.microsoft.com/download/pr/17763.737.190906-2324.rs5_release_svc_refresh_SERVERHYPERCORE_OEM_x64FRE_en-us_1.iso)    |
+|  Windows Server 2016   | None   |  [Download](https://software-download.microsoft.com/download/pr/Windows_Server_2016_Datacenter_EVAL_en-us_14393_refresh.ISO)  |
+|  Windows Server 2016 Essentials | None | [Download](http://download.microsoft.com/download/6/9/5/6957BB28-1FAD-4E62-B161-F873196130BD/14393.0.161119-1705.RS1_REFRESH_SERVERESSENTIALS_OEM_X64FRE_EN-US.ISO) |
+|  Hyper-V Server 2016   | None   |  [Download](http://download.microsoft.com/download/8/8/6/886DAAEF-81A7-4418-82D5-07D33B816962/14393.0.161119-1705.RS1_REFRESH_SERVERHYPERCORE_OEM_X64FRE_EN-US.ISO)    |
+|  Windows Server 2012 R2 | [Download](http://download.microsoft.com/download/D/6/7/D675380B-0028-46B3-B47F-A0646E859F76/9600.17050.WINBLUE_REFRESH.140317-1640_X64FRE_SERVER_EVAL_ZH-CN-IR3_SSS_X64FREE_ZH-CN_DV9.ISO)  |  [Download]( http://download.microsoft.com/download/6/2/A/62A76ABB-9990-4EFC-A4FE-C7D698DAEB96/9600.17050.WINBLUE_REFRESH.140317-1640_X64FRE_SERVER_EVAL_EN-US-IR3_SSS_X64FREE_EN-US_DV9.ISO) |
+|  Windows Server 2012 R2 Essentials | None  | [Download](http://download.microsoft.com/download/8/F/7/8F7024D2-AB2A-4BE2-8406-1E3AC49C5C1F/9600.16384.WINBLUE_RTM.130821-1623_X64FRE_SERVER_SOLUTION_EN-US-IRM_SSSO_X64FRE_EN-US_DV5.ISO) |
+|  Hyper-V Server 2012 R2 | None  | [Download](http://download.microsoft.com/download/F/7/D/F7DF966B-5C40-4674-9A32-D83D869A3244/9600.16384.WINBLUE_RTM.130821-1623_X64FRE_SERVERHYPERCORE_EN-US-IRM_SHV_X64FRE_EN-US_DV5.ISO)   |
+|  Windows Server 2012   | None   | [Download](http://download.microsoft.com/download/6/D/A/6DAB58BA-F939-451D-9101-7DE07DC09C03/9200.16384.WIN8_RTM.120725-1247_X64FRE_SERVER_EVAL_EN-US-HRM_SSS_X64FREE_EN-US_DV5.ISO)   |
+|  Hyper-V Server 2012   | None   | [Download](http://download.microsoft.com/download/3/4/7/347A95F0-A63C-492F-BE43-F376AE30C9FE/9200.16384.WIN8_RTM.120725-1247_X64FRE_SERVERHYPERCORE_EN-US-HRM_SHV_X64FRE_EN-US_DV5.ISO) |
+
+
 > Windows 8.1 & 10 Official Links are only valid for 24 hours from time of creation. so i have added official download pages.
 
 **But** if You Really Want Windows 10 Direct link We Can Use itechtics.com links Which Will Redirect Us to a official created Download Links.

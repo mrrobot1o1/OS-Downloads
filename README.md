@@ -52,6 +52,13 @@
 | Debian 10 Xfce                 | [Download](https://cdimage.debian.org/debian-cd/10.10.0/i386/iso-cd/debian-10.10.0-i386-xfce-CD-1.iso) | [Download](https://cdimage.debian.org/debian-cd/10.10.0/amd64/iso-cd/debian-10.10.0-amd64-xfce-CD-1.iso) |
 | Elementary OS                | None | [Download](https://sgp1.dl.elementary.io/download/MTYyNjc3OTE2NQ==/elementaryos-5.1-stable.20200814.iso) |
 | Arch Linux 2021.07.01                  | None      | [Download](http://mirror.cse.iitk.ac.in/archlinux/iso/2021.07.01/archlinux-2021.07.01-x86_64.iso) |
+| Fedora 34 Workstation        |  None   | [Download](https://ftp.yz.yamagata-u.ac.jp/pub/linux/fedora-projects/fedora/linux//releases/34/Workstation/x86_64/iso/Fedora-Workstation-Live-x86_64-34-1.2.iso) |
+| Parrot OS Security Edition   |  None   | [Download](https://download.parrot.sh/parrot/iso/4.11.2/Parrot-security-4.11.2_amd64.iso) |
+| BlackArch Linux              |  None   | [Download](https://ftp.halifax.rwth-aachen.de/blackarch/iso/blackarch-linux-full-2021.09.01-x86_64.iso)  |
+| Garuda Linux KDE Dr460nized  |  None   | [Download](https://mirrors.fossho.st/garuda/iso/garuda/dr460nized/210809/garuda-dr460nized-linux-zen-210809.iso)  |
+| Garuda Linux XFCE Edition | None | [Download](https://mirrors.fossho.st/garuda/iso/garuda/xfce/210809/garuda-xfce-linux-lts-210809.iso)  |
+| Garuda Linux Gnome Edition | None | [Download](https://mirrors.fossho.st/garuda/iso/garuda/gnome/210809/garuda-gnome-linux-zen-210809.iso) |
+
 
 
 

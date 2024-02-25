@@ -67,6 +67,7 @@ Windows Office Collection With Direct and Official Download Links
 
 | Office Name                   | Official Download Links                                                                                                |
 |:------------------------------|:----------------------------------------------------------------------------------------------------------------------:|
+| Office 2021 Professinal Plus  | [Download](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/en-us/ProPlus2021Retail.img)   |
 | Office 2019 Professinal Plus  | [Download](http://officecdn.microsoft.com/pr/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/en-us/ProPlus2019Retail.img)   |
 | Office 2016 Professional      | [Download](https://officecdn.microsoft.com/db/492350F6-3A01-4F97-B9C0-C7C6DDF67D60/media/en-US/ProfessionalRetail.img) |
 | Office 2016 Professional Plus | [Download](https://officecdn.microsoft.com/db/492350F6-3A01-4F97-B9C0-C7C6DDF67D60/media/en-US/ProPlusRetail.img)      |
